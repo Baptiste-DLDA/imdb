@@ -12,8 +12,8 @@ from streamlit_extras.stylable_container import stylable_container
 from translations import translations
 
 st.set_page_config(layout="wide")
-#"AIzaSyC1u9Ex9OIsmpvAgu_DSVw5H-mxmOIzlQA"
-key="AIzaSyC1u9Ex9OIsmpvAgu_DSVw5H-mxmOIzlQA"
+
+key=""
 
 if "explications" not in st.session_state:
     st.session_state.explications = []
