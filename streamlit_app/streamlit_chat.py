@@ -13,7 +13,7 @@ from translations import translations
 
 st.set_page_config(layout="wide")
 
-key="AIzaSyBUAnpgpQAM1TmduIHfTfiOFtfk2j4uZ38"
+key=""
 
 if "explications" not in st.session_state:
     st.session_state.explications = []
