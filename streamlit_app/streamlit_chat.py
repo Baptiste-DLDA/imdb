@@ -13,7 +13,7 @@ from translations import translations
 
 st.set_page_config(layout="wide")
 
-key=""
+key="AIzaSyBUAnpgpQAM1TmduIHfTfiOFtfk2j4uZ38"
 
 if "explications" not in st.session_state:
     st.session_state.explications = []
@@ -64,8 +64,6 @@ with col1:
     st.write(t['message'])
     
 messages = st.container(height=380)
-
-#test
 
 with col2:
     with stylable_container(
