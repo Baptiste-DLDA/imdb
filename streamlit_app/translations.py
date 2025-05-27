@@ -21,7 +21,7 @@ translations = {
         'message': "Please enter a movie review to analyze.",
         'bar':"Enter a movie review",
         'explications_message':"Here are the key points why movie reviews were classified as such : ",
-        'button': "See Reasonning",
+        'button': "See Reasoning",
         
     },
     'French 🇫🇷': {
